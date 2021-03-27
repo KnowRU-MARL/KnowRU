@@ -2,7 +2,7 @@
 
 The code is an implementation of KnowRU based on MAAC, you should firstly install the MAAC. 
 Before you begin to reuse knowledge, you should train some policy models firstly.
-
+[*Actoraa-Atte*]
 # MAAC:[*Actor-Attention-Critic for Multi-Agent Reinforcement Learning*](https://arxiv.org/abs/1810.02912) (Iqbal and Sha, ICML 2019)
 
 ## Requirements
