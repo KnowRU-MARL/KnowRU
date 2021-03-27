@@ -1,9 +1,8 @@
- python main_KD.py
+ # python main_KD.py
+# The code is an implementation of KnowRU based on MAAC, you should firstly install the MAAC. 
+# Before you begin to reuse knowledge, you should train some policy models firstly.
 
-The code is an implementation of KnowRU based on MAAC, you should firstly install the MAAC. 
-Before you begin to reuse knowledge, you should train some policy models firstly.
-[*Actoraa-Atte*]
-# MAAC:[*Actor-Attention-Critic for Multi-Agent Reinforcement Learning*](https://arxiv.org/abs/1810.02912) (Iqbal and Sha, ICML 2019)
+MAAC:[*Actor-Attention-Critic for Multi-Agent Reinforcement Learning*](https://arxiv.org/abs/1810.02912) (Iqbal and Sha, ICML 2019)
 
 ## Requirements
 * Python 3.6.1 (Minimum)
