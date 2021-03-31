@@ -10,8 +10,6 @@ Install the MPE(Multi-Agent Particle Environments) as the readme of OpenAI (or t
 
 ./arguments.py: Init the par for game, training and saving.
 
-./base_model.py: The previous policy models for knowledge reusing.
-
 ./distillation.py: Some functions for distillation.
 
 ./model.py: Init the model for the agent.
@@ -19,3 +17,5 @@ Install the MPE(Multi-Agent Particle Environments) as the readme of OpenAI (or t
 ./replay_buffer.py: Save the memory for all the agents.
 
 ./enjoy_split.py: A templete for testing the model trained in the 'main_openai.py'.
+
+./base_model: Save the previous policy models for knowledge reusing.
